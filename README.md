@@ -1,4 +1,4 @@
-# -Chess-Queens---EDA-using-Plotly
+# Chess-Queens - EDA-using-Plotly
 
 ## Introduction 
 
